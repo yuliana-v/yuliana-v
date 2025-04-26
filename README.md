@@ -24,5 +24,5 @@ With expertise in **React**, **Node.js**, and **AWS**, I specialize in crafting 
 ## ⚡ Fun Facts
 
 <!-- Embed a live “most used langs” card (via anuraghazra’s GitHub Readme Stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yuliana-v&layout=compact)
 
